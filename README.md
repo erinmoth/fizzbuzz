@@ -1,0 +1,2 @@
+# fizzbuzz
+for lab1
